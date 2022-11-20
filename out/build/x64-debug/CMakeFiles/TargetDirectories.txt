@@ -1,0 +1,3 @@
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C/CSFML/out/build/x64-debug/CMakeFiles/CSFML.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C/CSFML/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/iagos/OneDrive/Área de Trabalho/Projetos/C/CSFML/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
